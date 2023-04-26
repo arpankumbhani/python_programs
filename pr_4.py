@@ -5,4 +5,3 @@ print(a)
 for x in a:
     if x<5:
         print(x)
-
